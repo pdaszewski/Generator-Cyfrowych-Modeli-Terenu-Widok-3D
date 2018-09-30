@@ -1,4 +1,6 @@
 # Generator-Cyfrowych-Modeli-Terenu-Widok-3D
-Dwie dodatkowe aplikacje do Generatora Cyfrowych Modeli Terenu pozwalające na analizę terenu i jego prezentację 3D
+Two additional applications for the Digital Terrain Models Generator that allow you to analyze the terrain and its 3D presentation
 
-Obie aplikacja napisane jeszcze Delphi 7 uzupełniające cały projekte Generatora Cyfrowych Modeli Terenu.
+Both applications written yet Delphi 7 complementing the entire projects of the Digital Terrain Models Generator.
+
+Related to: https://github.com/pdaszewski/Generator-Cyfrowych-Modeli-Terenu
